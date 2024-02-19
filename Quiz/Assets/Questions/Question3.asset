@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bff45c73f378346458546eadcf00ba32, type: 3}
   m_Name: Question3
   m_EditorClassIdentifier: 
-  question: What did you say?
+  question: "T\xEDch 10 s\u1ED1 t\u1EF1 nhi\xEAn \u0111\u1EA7u ti\xEAn b\u1EB1ng
+    bao nhi\xEAu?"
   answer:
-  - Are you oki
-  - Hi
-  - Hum
-  - baby
-  correctAnswerIndex: 3
+  - 1240
+  - 0
+  - 10
+  - 15
+  correctAnswerIndex: 1

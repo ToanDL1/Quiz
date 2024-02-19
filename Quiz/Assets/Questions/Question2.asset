@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bff45c73f378346458546eadcf00ba32, type: 3}
   m_Name: Question2
   m_EditorClassIdentifier: 
-  question: "M\u1ED9t \u0111i\u1EC1u l\xE0 anh \u0111\xE3 bi\u1EBFt tr\u01B0\u1EDBc
-    r\u1EB1ng l\xE0"
+  question: "H\u1EC7 s\u1ED1 th\u1EADp ph\xE2n l\xE0 ph\xE1t minh c\u1EE7a n\u01B0\u1EDBc
+    n\xE0o?"
   answer:
-  - 1
-  - 2
-  - 3
-  - 4
-  correctAnswerIndex: 1
+  - Anh
+  - "Hi L\u1EA1p"
+  - "\u1EA4n \u0110\u1ED9"
+  - "Ai C\u1EADp"
+  correctAnswerIndex: 2

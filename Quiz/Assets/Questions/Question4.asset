@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bff45c73f378346458546eadcf00ba32, type: 3}
   m_Name: Question4
   m_EditorClassIdentifier: 
-  question: what does the word "Stripper" mean?
+  question: "B\xE1c H\u1ED3 \u0111\xE3 \u0111\u01B0a ra l\u1EDDi k\xEAu g\u1ECDi
+    to\xE0n qu\u1ED1c kh\xE1ng chi\u1EBFn v\xE0o n\u0103m n\xE0o?"
   answer:
-  - "v\u0169 n\u1EEF tho\xE1t y"
-  - hihi
-  - haha
-  - momno
-  correctAnswerIndex: 1
+  - 1910
+  - 1932
+  - 1945
+  - 1946
+  correctAnswerIndex: 3

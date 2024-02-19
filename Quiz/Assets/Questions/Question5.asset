@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bff45c73f378346458546eadcf00ba32, type: 3}
   m_Name: Question5
   m_EditorClassIdentifier: 
-  question: Enter the question which you want
+  question: "Tranh \"\u0110\xE1nh ghen\" l\xE0 tranh thu\u1ED9c th\u1EC3 lo\u1EA1i
+    tranh n\xE0o?"
   answer:
-  - 12
-  - 2123
-  - 4
-  - 5
-  correctAnswerIndex: 1
+  - "\u0110\xF4ng H\u1ED3"
+  - "D\xE2n gian"
+  - "S\u01A1n D\u1EA7u"
+  - "Ngh\u1EC7 Thu\xE2t"
+  correctAnswerIndex: 0

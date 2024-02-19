@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bff45c73f378346458546eadcf00ba32, type: 3}
   m_Name: Question1
   m_EditorClassIdentifier: 
-  question: "Ai l\xE0 ng\u01B0\u1EDDi y\xEAu ti\u1EBFp theo c\u1EE7a Nguy\u1EC5n
-    Ho\xE0ng ?"
+  question: "T\xE1c gi\u1EA3 c\u1EE7a t\xE1c ph\u1EA9m \"B\xECnh Ng\xF4 \u0111\u1EA1i
+    c\xE1o\"?"
   answer:
-  - "Huy\u1EC1n Trang (1)"
-  - "Huy\u1EC1n Trang (2)"
-  - "Huy\u1EC1n Trang (3)"
-  - Lan Anh
-  correctAnswerIndex: 2
+  - "Nguy\u1EC5n Tr\xE3i"
+  - "Ng\xF4 Quy\u1EC1n"
+  - Quang Trung
+  - "L\xFD Th\u01B0\u1EDDng K\u1EC7t"
+  correctAnswerIndex: 0
